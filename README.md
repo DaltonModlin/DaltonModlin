@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World!</h1>
 <p align="center">
-I'm Dalton, an aspiring ultra-learner!
+I'm Dalton, and I like to solve problems. Preferably simple ones, though complex problems often appear when solving simple problems.
 </p>
 
 <h2 align="center">My Skill Set</h2>
